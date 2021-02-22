@@ -64,3 +64,38 @@
 
 ![2](webform2.png)
 
+
+## Webes alkalmazas RIA felülettel - JavaScript (gyakorlat)
+
+![1](webalkjs1.png)
+
+![2](webalkjs2.png)
+
+
+## Webes alkalmazas RIA felülettel - webes alkalmazas (gyakorlat)
+
+![1](webalkweb1.png)
+
+![2](webalkweb2.png)
+
+
+## REST webszolgáltatások - Swagger (gyakorlat)
+
+![1](restswagg1.png)
+
+![2](restswagg2.png)
+
+
+## REST webszolgáltatások - Postman (gyakorlat)
+
+![1](restpostm1.png)
+
+![2](restpostm2.png)
+
+
+## Szerver alkalmazas webszolgáltatás interfesszel (gyakorlat)
+
+![1](serwebszint1.png)
+
+![2](serwebszint2.png)
+
